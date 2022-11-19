@@ -1,4 +1,7 @@
-Olá! Eu sou o Selton
+<div align="center">
+  <h2>Olá, seja bem-vindo!</h2>
+  <h3>Eu sou o Selton</h3>
+</div>
 <div align="center">
   <a href="https://github.com/SeltonOliveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeltonOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
