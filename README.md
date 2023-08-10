@@ -1,6 +1,5 @@
 <div align="center">
-  <h2>Olá, seja bem-vindo!</h2>
-  <h3>Eu sou o Selton</h3>
+  <h2>Olá! Eu sou o Selton 👋 </h2>
 </div>
 <div align="center">
   <a href="https://github.com/SeltonOliveira">
