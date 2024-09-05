@@ -1,5 +1,5 @@
 <h1 align="center">Olá, meu nome é Selton</br></h1>
-<p align="center">Sou Desenvolvedor web focado em JavaScript, apaixonado por criar experiências interativas e funcionais na web. Sempre em busca de aprimoramento e aprendizado contínuo para oferecer soluções inovadoras e de alta qualidade. Pronto para colaborar em projetos desafiadores e fazer parte de uma comunidade vibrante de desenvolvedores.</p>&nbsp;
+<p align="center">Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, um curso que me proporcionou uma sólida base teórica e prática em diversas áreas da tecnologia. Durante meus estudos, desenvolvi conhecimento em HTML, CSS e JavaScript, e estou continuamente me aperfeiçoando nessas tecnologias, com foco especial em front-end development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=SeltonOliveira&theme=radical&mode=weekly" />
