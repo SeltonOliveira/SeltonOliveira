@@ -2,7 +2,10 @@
 
 ###
 
-<p align="center">Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas, um curso que me proporcionou uma sólida base teórica e prática em diversas áreas da tecnologia. Durante meus estudos, desenvolvi conhecimento em HTML, CSS e JavaScript, e estou continuamente me aperfeiçoando nessas tecnologias, com foco especial em front-end development.</p>
+<p align="center">
+Sou estudante de Análise e Desenvolvimento de Sistemas e iniciante no mundo da programação. Atualmente estudando HTML, CSS, JavaScript e Python, sempre buscando aprender mais e evoluir na área de tecnologia.
+</p>
+
 
 ###
 
@@ -26,8 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
