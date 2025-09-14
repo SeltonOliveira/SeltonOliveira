@@ -1,74 +1,64 @@
-<h1 align="center">Olá, meu nome é Selton</h1>
-
-###
+<h1 align="center">Olá, meu nome é Selton!</h1>
+<p align="center"><em>"Codando hoje, construindo o futuro amanhã!"</em></p>
 
 <p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas e iniciante no mundo da programação. Atualmente estudando HTML, CSS, JavaScript e Python, sempre buscando aprender mais e evoluir na área de tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções digitais. Atualmente, estou aprendendo Python e Linux, com o objetivo de me tornar um desenvolvedor full-stack e explorar áreas como automação e infraestrutura de TI. Embora ainda não trabalhe na área, estou em busca de um estágio para aplicar meus conhecimentos e crescer profissionalmente. Sou pai dedicado, e minha curiosidade e determinação me motivam a enfrentar novos desafios, tanto no código quanto na vida!
 </p>
 
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeltonOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeltonOliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SeltonOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false&order=1" height="150" alt="Gráfico de estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeltonOliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="Gráfico de linguagens mais usadas" />
 </div>
 
-###
-
-<h2 align="left">Skills</h2>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
-
-###
-
+<h2 align="left">Habilidades</h2>
+<p align="left">Trabalhando para dominar as seguintes tecnologias:</p>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <p><strong>Front-end:</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="Ícone do HTML5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="Ícone do CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-
-
-###
-
-<p align="left">Estudando no momento:</p>
-
-###
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Ícone do JavaScript" />
+</div>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <p><strong>Back-end e Automação:</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Ícone do Python" />
+</div>
+<div align="left">
+  <p><strong>Ferramentas e Sistemas:</strong></p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Ícone do Linux" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Ícone do Git" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Ícone do Figma" />
 </div>
 
-###
+<h2 align="left">Estudando no Momento</h2>
+<p align="left">
+  - <strong>Python</strong>: Aprofundando em estruturas de dados (listas, dicionários), funções e automação de tarefas. Atualmente, explorando bibliotecas como Pandas para análise de dados.<br>
+  - <strong>Linux</strong>: Praticando comandos no terminal, como <code>ls</code>, <code>chmod</code>, e configurando ambientes em máquinas virtuais.
+</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Ícone do Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Ícone do Linux" />
+</div>
 
-<h2 align="left">Contato:</h2>
+<h2 align="left">Um pouco sobre mim</h2>
+<p align="left">
+Fora do mundo da programação, sou pai orgulhoso e gosto de relaxar pescando. Também curto jogar online e assistir animes.
+</p>
 
-###
-
+<h2 align="left">Contato</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/selton-fiusa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="Ícone do LinkedIn" />
   </a>
-  <a href="selllsk8@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:selllsk8@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Ícone do Gmail" />
   </a>
 </div>
 
-###
+<p align="center"><em>"Um bug de cada vez, até o código brilhar!"</em></p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A5C7DB&height=120&section=footer"/>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=A5C7DB&height=120&section=footer"/>
