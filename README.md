@@ -6,9 +6,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnolog
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeltonOliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=pt-br&hide_border=false&order=1" height="150" alt="Gráfico de estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SeltonOliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="Gráfico de linguagens mais usadas" />
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SeltonOliveira&show_icons=true&theme=nord&count_private=true&hide_border=false" height="150" alt="Gráfico de estatísticas do GitHub" />
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeltonOliveira&layout=compact&langs_count=5&theme=nord&hide_border=false" height="150" alt="Gráfico de linguagens mais usadas" />
 </div>
+
 
 <h2 align="left">Habilidades</h2>
 <p align="left">Trabalhando para dominar as seguintes tecnologias:</p>
