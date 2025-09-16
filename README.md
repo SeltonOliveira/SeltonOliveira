@@ -2,7 +2,7 @@
 <p align="center"><em>"Codando hoje, construindo o futuro amanhã!"</em></p>
 
 <p align="center">
-Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções digitais. Atualmente, estou aprendendo Python e Linux, com o objetivo de me tornar um desenvolvedor full-stack e explorar áreas como automação e infraestrutura de TI. Embora ainda não trabalhe na área, estou em busca de um estágio para aplicar meus conhecimentos e crescer profissionalmente. Sou pai dedicado, e minha curiosidade e determinação me motivam a enfrentar novos desafios, tanto no código quanto na vida!
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções digitais. Atualmente, estou aprendendo Python e Linux, com o objetivo de me tornar um desenvolvedor full-stack e explorar áreas como automação e infraestrutura de TI. Embora ainda não trabalhe na área, estou em busca de um estágio para aplicar meus conhecimentos e crescer profissionalmente. Sou pai dedicado, e minha curiosidade e determinação me motivam a enfrentar novos desafios, tanto no código quanto na vida!
 </p>
 
 <div align="center">
